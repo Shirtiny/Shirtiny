@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirtiny&repo=SubEditor)](https://github.com/Shirtiny/SubEditor) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirtiny&repo=ShWave)](https://github.com/Shirtiny/ShWave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirtiny&layout=compact&hide=html)](https://github.com/Shirtiny)
+
+
