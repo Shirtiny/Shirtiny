@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirtiny&layout=compact&hide=html)](https://github.com/Shirtiny)       
 [![Shirtiny's Github](https://github-readme-stats.vercel.app/api?username=shirtiny&title_color=00b7c3&icon_color=66cccc&show_icons=true&hide_border=true)](https://shirtiny.cn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirtiny&layout=compact&hide=html)](https://github.com/Shirtiny)
+
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirtiny&repo=SubEditor)](https://github.com/Shirtiny/SubEditor) 
