@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Shirtiny's Github](https://github-readme-stats.vercel.app/api?username=shirtiny&title_color=00b7c3&icon_color=66cccc&show_icons=true&hide_border=true)](https://shirtiny.cn)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirtiny&repo=SubEditor&show_owner=true)](https://github.com/Shirtiny/SubEditor)
