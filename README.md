@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirtiny&layout=compact&title_color=00b7c3&hide_border=true&hide=html)](https://github.com/Shirtiny)
 
 - **Links**
-  -  [My Blog](https://shirtiny.cn)
+  -  [My Blog](https://shirtiny.anror.com)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirtiny&repo=SubEditor)](https://github.com/Shirtiny/SubEditor) 
